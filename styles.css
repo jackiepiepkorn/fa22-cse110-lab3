@@ -1,5 +1,6 @@
 h1 {
     text-decoration: underline;
+    display: none;
 }
 h2 {
     font-size: 150%;
@@ -26,6 +27,7 @@ nav {
 p {
     font-size: 18px;
     margin: .10%;
+    display: inline-block;
 }
 body {
     padding: 50px;
