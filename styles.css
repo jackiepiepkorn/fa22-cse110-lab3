@@ -7,13 +7,22 @@ h3 {
   }
 a {
     color: hsla(0, 94%, 44%, 0.757);
+    margin: auto;
+}
+nav {
+    margin-bottom: 30px;
 }
 p {
     font-size: 18px;
+    margin: .10%;
 }
 body {
     padding: 50px;
     line-height: 0.5cm;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    margin-left: -10px;
+    margin-right: 10px;
 }
 img {
     width: 14%;
